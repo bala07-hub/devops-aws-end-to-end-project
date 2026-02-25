@@ -142,8 +142,8 @@ jobs:
 
       - name: Commit and push changes
         run: |
-          git config --global user.email "ci-bot@example.com"
-          git config --global user.name "ci-bot"
+          git config --global user.email "balamanikanta.anantha@gmail.com"
+          git config --global user.name "bala07-hub"
           git add kubernetes/ad/deploy.yaml
           git commit -m "[CI]: Update Ad-a-java image tag to ${{ github.run_id }}" || echo "No changes to commit"
           git push origin HEAD:main
