@@ -12,7 +12,7 @@ The goal of this project is to showcase **real-world DevOps practices**, includi
 * **GitOps deployment using ArgoCD**
 * **CI/CD pipelines using GitHub Actions**
 * Cloud networking and domain configuration using **AWS Route53**
-
+<img width="1400" height="835" alt="image" src="https://github.com/user-attachments/assets/be582ffb-44c8-4258-b0e6-cb83076b9755" />
 The application is composed of multiple microservices. In this implementation, three core microservices were containerized and deployed to Kubernetes.
 
 ---
